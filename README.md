@@ -1,2 +1,3 @@
 # retrocom
-Placeholder repo for the retrocom project
+
+Placeholder package. The `retrocom` name is reserved for a future project.
